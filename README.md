@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Balibonera Junior
+# Hello, I'm Balibonera Junior 👋 
  
 ### Software Engineer · Technical Consultant · Fintech & Mobile Systems
  
