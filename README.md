@@ -2,18 +2,18 @@
  
 ### Software Engineer · Technical Consultant · Fintech & Mobile Systems
  
-I build scalable software that solves real business problems — from **core banking and payment systems** to **business automation, logistics, and mobile products** across East and Central Africa.
+I build scalable software that solves real business problems - from **core banking and payment systems** to **business automation, logistics, and mobile products** across East and Central Africa.
  
 My work spans **mobile, backend, APIs, integrations, databases, and system architecture**, with a strong focus on turning complex financial and operational processes into simple, reliable software.
  
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/balibonera-junior/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="[YOUR_PORTFOLIO_URL](https://balibonerajunior.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:juniorbalamage@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -75,7 +75,7 @@ A crypto wallet app built for Congo, targeting remittances and cross-border paym
  
 ### 📦 Jenga Stock
  
-A tablet-first POS and inventory platform with three components — admin console, backend core, and POS — including a China/Yiwu procurement module.
+A tablet-first POS and inventory platform with three components - admin console, backend core, and POS - including a China/Yiwu procurement module.
  
 **Focus:** Flutter · NestJS · POS · Procurement
  
@@ -99,9 +99,9 @@ A Kenyan rental platform connecting departing tenants directly with apartment se
  
 ## 🚀 Currently Building
  
-- **Core banking infrastructure** — KYC, diaspora banking, and SWIFT messaging for a SACCO mobile platform
-- **Procurement tooling** — supplier tracking and AI-assisted purchasing for Jenga Stock
-- **Digital literacy programs** — through Digital Horizons Foundation in eastern Congo
+- **Core banking infrastructure** - KYC, diaspora banking, and SWIFT messaging for a SACCO mobile platform
+- **Procurement tooling** - supplier tracking and AI-assisted purchasing for Jenga Stock
+- **Digital literacy programs** - through Digital Horizons Foundation in eastern Congo
 ---
  
 ## 📊 GitHub
