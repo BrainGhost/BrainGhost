@@ -19,7 +19,7 @@ My work spans **mobile, backend, APIs, integrations, databases, and system archi
 </p>
 ---
  
-## 🧭 What I Build
+#### WHAT I BUILD
  
 | | Area | Focus |
 |---|---|---|
@@ -31,87 +31,84 @@ My work spans **mobile, backend, APIs, integrations, databases, and system archi
  
 ---
  
-## 🛠️ Technology
- 
-### Languages
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,java,sql" />
+#### TECHNOLOGY
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,java,react,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,postgres,oracle,firebase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux&theme=dark" />
 </p>
-### Mobile & Frontend
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,tailwind" />
-</p>
-### Backend & Data
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,postgres,oracle,firebase" />
-</p>
-### Tools & Infra
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux" />
-</p>
+
 ---
  
-## ⭐ Selected Projects
+#### SELECTED PROJECTS
  
-### 🏦 SACCO Mobile Banking Platform
- 
-Full-stack mobile banking platform with biometric auth, device binding, MRZ/KYC verification, ISO 20022/SWIFT messaging, and cheque processing.
- 
-**Focus:** Flutter · Spring Boot · Oracle · Keycloak · ISO 20022
- 
----
- 
-### 🪙 EzaCoin
- 
-A crypto wallet app built for Congo, targeting remittances and cross-border payments.
- 
-**Focus:** Flutter · Firebase · Remittance
- 
----
- 
-### 📦 Jenga Stock
- 
-A tablet-first POS and inventory platform with three components - admin console, backend core, and POS - including a China/Yiwu procurement module.
- 
-**Focus:** Flutter · NestJS · POS · Procurement
- 
----
- 
-### ⛳ CaddiePass
- 
-A two-sided marketplace connecting golfers with caddies for ratings, tipping, and bookings in the Kenyan golf market.
- 
-**Focus:** Flutter · NestJS · PostgreSQL · M-Pesa Daraja
- 
----
- 
-### 🏠 Keja
- 
-A Kenyan rental platform connecting departing tenants directly with apartment seekers, cutting out agents.
- 
-**Focus:** React · M-Pesa STK Push · Marketplace
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>SACCO MOBILE BANKING PLATFORM</h4>
+      <p>Full-stack mobile banking platform with biometric auth, device binding, MRZ/KYC verification, ISO 20022/SWIFT messaging, and cheque processing.</p>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keycloak-000000?style=flat-square&logo=keycloak&logoColor=white" />
+      <img src="https://img.shields.io/badge/ISO_20022-000000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>EZACOIN</h4>
+      <p>A crypto wallet app built for Congo, targeting remittances and cross-border payments.</p>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Remittance-000000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>JENGA STOCK</h4>
+      <p>A tablet-first POS and inventory platform with three components — admin console, backend core, and POS — including a China/Yiwu procurement module.</p>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/POS-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Procurement-000000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>CADDIEPASS</h4>
+      <p>A two-sided marketplace connecting golfers with caddies for ratings, tipping, and bookings in the Kenyan golf market.</p>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/M--Pesa_Daraja-000000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>KEJA</h4>
+      <p>A Kenyan rental platform connecting departing tenants directly with apartment seekers, cutting out agents.</p>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/M--Pesa_STK_Push-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Marketplace-000000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
  
 ---
  
-## 🚀 Currently Building
+#### CURRENTLY BUILDING
  
 - **Core banking infrastructure** - KYC, diaspora banking, and SWIFT messaging for a SACCO mobile platform
 - **Procurement tooling** - supplier tracking and AI-assisted purchasing for Jenga Stock
 - **Digital literacy programs** - through Digital Horizons Foundation in eastern Congo
 ---
  
-## 📊 GitHub
+#### GITHUB
  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BrainGhost&hide_border=true&theme=transparent" />
 </p>
 ---
  
-## 💡 Engineering Philosophy
+#### ENGINEERING PHILOSOPHY
  
 > **Build systems that are reliable underneath and simple on the surface.**
  
@@ -119,7 +116,7 @@ I care about clean architecture, thoughtful UX, maintainable code, and software 
  
 ---
  
-## 🤝 Let's Build Something Meaningful
+#### LET'S BUILD SOMETHING MEANINGFUL
  
 I'm interested in collaborating on **fintech, core banking, mobile products, and systems that solve meaningful problems across Africa.**
  
