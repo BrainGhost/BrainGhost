@@ -2,7 +2,7 @@
 
 ### Software Engineer · Product Builder · Fintech
 
-I build scalable software that solves real business problems — from **fintech and payment systems** to **business automation, commerce, and digital products**.
+I build scalable software that solves real business problems - from **fintech and payment systems** to **business automation, commerce, and digital products**.
 
 My work spans **frontend, backend, mobile, APIs, integrations, databases, and system architecture**, with a strong focus on turning complex business processes into simple, reliable software.
 
@@ -102,10 +102,10 @@ Enterprise integrations connecting banking systems with **payment channels, mobi
 
 ## 🚀 Currently Building
 
-- **Fintech infrastructure** — exploring better ways to model financial accounts, payments and workflows.
-- **Business automation** — building tools that simplify commerce, inventory and operational processes.
-- **Product experiences** — designing software that makes complex systems feel simple.
-- **Scalable architectures** — continuously improving how applications are structured, secured and deployed.
+- **Fintech infrastructure** - exploring better ways to model financial accounts, payments and workflows.
+- **Business automation** - building tools that simplify commerce, inventory and operational processes.
+- **Product experiences** - designing software that makes complex systems feel simple.
+- **Scalable architectures** - continuously improving how applications are structured, secured and deployed.
 
 ---
 
