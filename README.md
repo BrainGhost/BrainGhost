@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Balib Junny (BrainGhost)
+# 👋 Hello, I'm Balibonera Junior
  
 ### Software Engineer · Technical Consultant · Fintech & Mobile Systems
  
