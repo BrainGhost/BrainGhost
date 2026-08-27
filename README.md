@@ -3,7 +3,7 @@
 <h3 align="center">Developer & Technical Consultant | Fintech, Core Banking & Mobile Systems</h3>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1C35F4&center=true&vCenter=true&width=600&lines=Building+fintech+%26+mobile+platforms+across+Africa;Flutter+%7C+Spring+Boot+%7C+NestJS+%7C+Oracle;Founder+%40+CEFUMA+East+Africa;Co-Founder+%40+Digital+Horizons+Foundation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5F5DC&center=true&vCenter=true&width=600&lines=Building+fintech+%26+mobile+platforms+across+Africa;Flutter+%7C+Spring+Boot+%7C+NestJS+%7C+Oracle;Founder+%40+CEFUMA+East+Africa;Co-Founder+%40+Digital+Horizons+Foundation" alt="Typing SVG" />
 </p>
 ---
  
