@@ -1,76 +1,147 @@
-<h1 align="center">Hey, I'm BrainGhost 👋</h1>
- 
-<h3 align="center">Developer & Technical Consultant | Fintech, Core Banking & Mobile Systems</h3>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5F5DC&center=true&vCenter=true&width=600&lines=Building+fintech+%26+mobile+platforms+across+Africa;Flutter+%7C+Spring+Boot+%7C+NestJS+%7C+Oracle;Founder+%40+CEFUMA+East+Africa;Co-Founder+%40+Digital+Horizons+Foundation" alt="Typing SVG" />
+# 👋 Hello, I'm Balibonera Junior
+
+### Software Engineer · Product Builder · Fintech
+
+I build scalable software that solves real business problems — from **fintech and payment systems** to **business automation, commerce, and digital products**.
+
+My work spans **frontend, backend, mobile, APIs, integrations, databases, and system architecture**, with a strong focus on turning complex business processes into simple, reliable software.
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 ---
- 
-### 🌍 About Me
- 
-- 💼 Developer, technical consultant, and entrepreneur based in **Goma, DRC**
-- 🏦 Deep experience in **fintech and core banking systems** (ISO 20022, SWIFT messaging, agency banking), including prior work in Kenya's banking sector
-- 📱 Building consumer and business-facing **mobile apps** across finance, logistics, and productivity
-- 🤝 Co-founder of **Digital Horizons Foundation**, an NGO advancing digital literacy and youth empowerment in eastern Congo
-- 🚚 Also run ventures spanning **import/trade (Yiwu sourcing)**, **catering**, and **cross-border mobility & logistics** via CEFUMA East Africa
-- 🌐 Fluent across EN/FR contexts - most of my apps ship bilingual by default
----
- 
-### 🛠️ Tech Stack
- 
-**Languages & Frameworks**
- 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-**Data & Infra**
- 
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" />
-</p>
-**Domains**
- 
-<p>
-  <img src="https://img.shields.io/badge/Core_Banking-1C35F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISO_20022_%2F_SWIFT-1C35F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile_Money-1C35F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KYC_%2F_Identity-1C35F4?style=for-the-badge" />
-</p>
----
- 
-### 🚀 Featured Projects
- 
-| Project | Description | Stack |
+
+## 🧭 What I Build
+
+| | Area | Focus |
 |---|---|---|
-| 🏦 **SACCO Mobile Banking Platform** | Full-stack mobile banking system for a SACCO - biometric auth, ISO 20022/SWIFT messaging, KYC/MRZ verification, cheque processing | Flutter · Spring Boot · Oracle · Keycloak |
-| 🪙 **EzaCoin** | Crypto wallet app for Congo built for remittances and cross-border payments | Flutter · Firebase |
-| ⛳ **CaddiePass** | Two-sided caddie rating & tipping marketplace for the Kenyan golf market | Flutter · NestJS · PostgreSQL · M-Pesa Daraja |
-| 📦 **Jenga Stock** | Inventory management suite - admin console, backend core, and tablet POS, with a China/Yiwu procurement module | Flutter · NestJS |
-| 🏠 **Keja** | Kenyan rental platform connecting departing tenants directly with apartment seekers, cutting out agents | React · M-Pesa STK Push |
-| 🔗 **BreakFree** | Habit-tracking app for behavior change, with AI-assisted coaching | Flutter · NestJS · Supabase · Claude API |
- 
+| 🏦 | **Fintech & Payments** | Digital banking, payments, virtual accounts, financial APIs |
+| ⚙️ | **Business Systems** | POS, inventory, purchasing, customers, reporting |
+| 📱 | **Product Engineering** | Web and mobile applications built around real user journeys |
+| 🔗 | **Integrations** | Banking APIs, payment gateways, mobile money and enterprise systems |
+| 🧩 | **System Architecture** | APIs, authentication, databases, workflows and scalable backends |
+
 ---
- 
-### 🌱 Currently Working On
- 
-- Building out the SACCO mobile banking platform's KYC and diaspora banking features
-- Expanding Jenga Stock's procurement and supplier-tracking module
-- Growing Digital Horizons Foundation's digital literacy programs in eastern Congo
+
+## 🛠️ Technology
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,dart,sql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,mongodb,prisma" />
+</p>
+
+### Tools & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux" />
+</p>
+
 ---
- 
-### 📫 Connect With Me
- 
+
+## ⭐ Selected Projects
+
+### 🏦 Virtual Account Management
+
+Designing flexible infrastructure for managing **virtual accounts, clients, master accounts, products, account structures, permissions and transaction workflows**.
+
+**Focus:** Financial infrastructure · Account structures · Workflow systems · Enterprise architecture
+
+---
+
+### 🛒 Jenga Stock
+
+A tablet-first **POS and inventory management platform** designed for businesses dealing with purchasing, stock receiving, retail sales, credit sales, pricing and reporting.
+
+**Focus:** POS · Inventory · Purchasing · Customers · Payments · Flutter
+
+---
+
+### 📱 Loan Origination
+
+A mobile field-operations platform for **customer onboarding, group management and loan processing**, designed for financial institutions and field officers.
+
+**Focus:** Flutter · Mobile workflows · REST APIs · Financial services
+
+---
+
+### 💳 Banking & Payment Integrations
+
+Enterprise integrations connecting banking systems with **payment channels, mobile money, APIs and financial messaging infrastructure**.
+
+**Focus:** APIs · Payments · ISO 20022 · Banking systems · Integrations
+
+---
+
+## 🚀 Currently Building
+
+- **Fintech infrastructure** — exploring better ways to model financial accounts, payments and workflows.
+- **Business automation** — building tools that simplify commerce, inventory and operational processes.
+- **Product experiences** — designing software that makes complex systems feel simple.
+- **Scalable architectures** — continuously improving how applications are structured, secured and deployed.
+
+---
+
+## 📊 GitHub
+
 <p align="center">
-  <a href="https://linkedin.com/in/balibonera-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:juniorbalamage@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrainGhost&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGhost&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BrainGhost&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build systems that are reliable underneath and simple on the surface.**
+
+I care about clean architecture, thoughtful UX, maintainable code and software that genuinely improves how people work.
+
+---
+
+## 🤝 Let's Build Something Meaningful
+
+I'm interested in collaborating on **fintech, developer tools, business software, APIs, and products that solve meaningful problems.**
+
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/balibonera-junior/)">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="[YOUR_PORTFOLIO_URL](https://balibonerajunior.vercel.app/)">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:juniorbalamage">Email</a>
+</p>
+
+<p align="center">
+  <sub>Building, learning, and shipping.</sub>
 </p>
