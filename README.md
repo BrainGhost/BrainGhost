@@ -107,10 +107,6 @@ A Kenyan rental platform connecting departing tenants directly with apartment se
 ## 📊 GitHub
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrainGhost&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGhost&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=BrainGhost&hide_border=true&theme=transparent" />
 </p>
 ---
