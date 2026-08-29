@@ -66,7 +66,7 @@ My work spans **mobile, backend, APIs, integrations, databases, and system archi
   <tr>
     <td width="50%" valign="top">
       <h4>JENGA STOCK</h4>
-      <p>A tablet-first POS and inventory platform with three components — admin console, backend core, and POS — including a China/Yiwu procurement module.</p>
+      <p>A tablet-first POS and inventory platform with three components: admin console, backend core, and POS including a China/Yiwu procurement module.</p>
       <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/POS-000000?style=flat-square" />
